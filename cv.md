@@ -10,13 +10,14 @@
 * Priority: employment in the company "Epam"
 
 ## Experience
+_ 2015-2021_
+### Project manager
 * Negotiation
 * Preparation of project documentation
 * Setting tasks for the contractor for the project
 * Sontrol over the implementation of the task in accordance with the terms of reference on time
 
-_ 2015-2021_
-## Project manager
+## Additional Information
 - * singleness of purpose
 - * the ability to prioritize to achieve the set goals on time
 
@@ -27,6 +28,9 @@ _ 2015-2021_
 - * Visual Studio Code
 - * Adobe Photochop CC
 
+## Sample code
+### Screenshot:
+! [] (https://drive.google.com/file/d/1rTSuyf1I-opjMLUldJHKwzijOpDm-IOr/view?usp=sharing)
 ## Education
 * Donetsk State University of Management
 ### Specialty at the university
